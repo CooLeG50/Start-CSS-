@@ -1,0 +1,13 @@
+.fundo{
+    width: 50%;
+    height: 10px;
+    background-image: url(..img/Java-Logo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
